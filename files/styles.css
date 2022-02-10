@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  /* overflow-x: hidden; */
+}
+
+.h3-font {
+  font-weight: bold;
+}
+
+.sm-font {
+  font-size: 1rem;
+}
+
+.normal-font {
+  font-size: .75rem;
+  font-weight: bold;
+}
+.sm-font i{
+  font-size: 1.5rem;
+  color: blueviolet;
+}
+
+.trial-btn {
+  white-space: nowrap;
+}
+
+.box-icon i {
+  font-size: 3rem;
+  color: blueviolet;
+}
+
+.light-font {
+  font-size: 1.5rem;
+}
+
+.box-card {
+  height: 100%;
+}
+
+.solid-circle {
+  height: 5px;
+  width:  15px;
+  background-color: blueviolet;
+  border-radius: 40%;
+}
+
+.stuck-video {
+  height: 100%;
+}
+
+@media screen and (max-width: 992px) {
+  .offer-col {
+    display: none;
+  }
+}
