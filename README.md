@@ -9,7 +9,7 @@ Getting started with **Thunder Executor** is simple and fast:
 ## 📌 About  
 🚀 **Thunder Executor** is a powerful and efficient **Roblox script executor** built for seamless script execution, high performance, and an intuitive user interface. It is fully compatible with the latest Roblox updates, ensuring a smooth and secure experience for gamers, developers, and modding enthusiasts.  
 
-![Previewv](/assets/Thunder.jpg)
+![Previewv](/assets/Thunder.png)
 
 ## 📑 Table of Contents  
 - [Introduction](#introduction)  
